@@ -10,5 +10,11 @@
 	    "repository":  "InfinitiveOS-Devices/proprietary_vendor_lge",
 	    "target_path": "vendor/lge",
 	    "revision":    "io-1.0"
+	  },
+	  {
+	    "remote":      "github",
+	    "repository":  "InfinitiveOS-Devices/android_devices_qcom_common",
+	    "target_path": "devices/qcom/common",
+	    "revision":    "io-1.0"
 	  }
 	]
