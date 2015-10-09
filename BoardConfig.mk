@@ -172,3 +172,6 @@ USE_MINIKIN := true
 
 # Include an expanded selection of fonts
 EXTENDED_FONT_FOOTPRINT := true
+
+# Including Omni TWRP
+TW_THEME=portrait_mdpi
